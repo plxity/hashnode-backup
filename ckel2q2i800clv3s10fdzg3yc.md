@@ -1,4 +1,4 @@
-## From getting an Internship to PPO at Innovaccer
+## From getting an Internship to Full-time offer at Innovaccer
 
 Hope you all are doing well. 😁
 
