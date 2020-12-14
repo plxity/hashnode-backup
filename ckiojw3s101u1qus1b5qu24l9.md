@@ -15,7 +15,8 @@ Suppose you are building a component in ReactJS which involves managing multiple
 Using 'Reselect' can help us to prevent unnecessary recalculations and re-rendering of the component which improves the performance indirectly. 
 
 ### Code Snipet - Example
-Suppose your React component looks something like -
+
+Suppose your React component looks something like where we are trying to sort names in ascending and descending order using a `filter` parameter which specifies the order. There is also a function which can be used to add a new city in the `cities` array.
 
 `Containers/PersonList.js`
 ```
@@ -51,7 +52,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(PersonList)
 
 ```
 
-So whenever there is a change in a state tree, `mapStateToProps` is called again and the component is rendered.
+So whenever there is a change in a state tree, `mapStateToProps` is called again and the component is re-rendered.
 
 For example, if a new city is added state tree will be calculated again, the component will rerender, the `mapStateToProps` will be called and `sortByName` function will run again. This can lead to performance issue if the `names` list is huge. It will be called again even if there is no change in the `names` array or the `filter`.
 
