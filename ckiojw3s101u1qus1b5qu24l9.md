@@ -25,9 +25,9 @@ import { connect } from 'react-redux'
 const sortByName = (names, filter) => {
   switch (filter) {
     case 'ASCE':
-      return  {Logic for ordering the names array in ascending order}
+      return names.slice().sort((a,b) => a > b);
     case 'DESC':
-      return {Logic for ordering the names array in descending order}
+      return names.slice().sort((a,b) => a < b);
     default: 
       return names;
   }
@@ -73,9 +73,9 @@ export const getSortedNames = createSelector(
   (filter, names) => {
     switch (filter) {
     case 'ASCE':
-      return  {Logic for ordering the names array in ascending order}
+      return names.slice().sort((a,b) => a > b);
     case 'DESC':
-      return {Logic for ordering the names array in descending order}
+      return names.slice().sort((a,b) => a < b);
     default:
       return names;
    }
