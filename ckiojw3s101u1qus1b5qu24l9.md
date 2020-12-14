@@ -119,10 +119,10 @@ export default connect(mapStateToProps, mapDispatchToProps)(PersonList)
 
 ```
 
-Now what happens is even if a new city is added and there is no change in the `names` or `filter` property and `mapStateToProps` is called again. The names array won't be calculated again because we have used a memoized selector. It will return the cached result.
+Now what happens is even if a new city is added and there is no change in the `names` or `filter` property and `mapStateToProps` is called again. The names array won't be calculated again because we have used a memoized selector. It will return the **cached result**.
 
 
-Initially, when the component renders for the first time `mapStateToProps` is called for the first time and `getSortedNames` also gets called.  After that, It caches the result for `names`. So whenever the state tree changes and `getSortedNames` gets called, It will check if there is any change in the `names` or `filter`. If there is no change it will return the cached result hence saving time in recalculating the `names` array again. If there is a change it will be calculated again and that result will be cached. You can read more about 'Reselect' from [here](https://github.com/reduxjs/reselect).
+Initially, when the component renders for the first time `mapStateToProps` is called for the first time and `getSortedNames` also gets called.  After that, It caches the result for `names`. So whenever the state tree changes and `getSortedNames` gets called, It will check if there is any change in the `names` or `filter`. If there is no change, it will return the **cached result** hence saving time in recalculating the `names` array again. If there is a change it will be calculated again and that result will be cached. You can read more about 'Reselect' from [here](https://github.com/reduxjs/reselect).
 
 That's it for this blog. 
 Thank you for reading. 😃
