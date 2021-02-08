@@ -11,7 +11,7 @@ It provides a platform for the user to create a quiz for their friends and share
 **Link** -  [Hangman Game](https://hangman-multiplayer.vercel.app/) 
 
 
-**GitHub** - [I'm trying to improve the UI/UX. Once I feel it is up to the mark, I'll open-source the project.]()
+**GitHub** - [GitHub Repository](https://github.com/plxity/Hangman-Multiplayer)
 
 ## 💡 The Idea 
 
