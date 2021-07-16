@@ -1,4 +1,4 @@
-## 6 months Internship experience at InnovAccer 🦄
+## 6 month Internship experience at InnovAccer 🦄
 
 ## Introduction 
 Hello Folks,
