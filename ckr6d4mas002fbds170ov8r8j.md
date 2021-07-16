@@ -28,7 +28,7 @@ At the end of the month (which is also a quarter-end) we had a small game evenin
 These two months, I was moved to a different team. It was a completely new project and I had set up a lot of things from scratch. These 2 months were really hectic as I had to complete the beta version of the application and deploy it before the deadlines. I really enjoyed working in these months and I got to learn a lot of new things about **Video calling, Web Sockets, Cameras and Mic Testing and other things related to video calls.** I was the only Frontend Engineer in this team so It was really a great opportunity for me to build things from scratch and learn a lot. 
 
 ### 6th Month 😢(Last month)
-In the last month, I was moved back to my previous team as I completed the Project of the previous team on time and successfully deployed it. 🎉
+In the last month, I was moved back to my original team as I completed the Project of the previous team on time and successfully deployed it. 🎉
 In this month, I continued working on improving and adding new features on the web app for making communication between doctors, hospitals and patients better. 
 
 
