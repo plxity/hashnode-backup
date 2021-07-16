@@ -32,7 +32,7 @@ In the last month, I was moved back to my original team as I completed the Proje
 In this month, I continued working on improving and adding new features on the web app for making communication between doctors, hospitals and patients better. 
 
 
-Today (16th July) was my last day at InnovAccer, I had a small farewell call with all the members of the team. I thanked each and everyone for giving me a chance to work in their team and for helping me to grow as an Engineer. I really liked working with everyone. People were supportive and helpful in my team. 💙
+Today (16th July) was my last day at InnovAccer, I had a small farewell call with all the members of the team. I thanked each and everyone for giving me a chance to work in their team and for helping me to grow as an Engineer. I really liked working with everyone. People are really supportive and helpful in my team. 💙
 
 ### Ending Note
 Overall, it was a really nice experience working there. The culture is really good and the people are very supportive. I would like to thank [Bandana](https://in.linkedin.com/in/bandana-laishram-7733513b), my mentor, who helped me at every step whenever I faced a problem related to Tech or Non-Tech. I wish I get to work with such an amazing team again.
