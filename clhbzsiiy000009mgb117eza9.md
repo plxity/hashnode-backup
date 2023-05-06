@@ -2,7 +2,7 @@
 title: "How to make ios like photo gallery using framer motion?"
 datePublished: Sat May 06 2023 12:59:50 GMT+0000 (Coordinated Universal Time)
 cuid: clhbzsiiy000009mgb117eza9
-slug: how-to-make-ios-like-photo-gallery-using-framer-motion
+slug: ios-gallery-framer
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683377613076/e24bac82-882e-4223-8354-306f410a8d0b.webp
 tags: javascript, animation, reactjs, framer-motion
 
