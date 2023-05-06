@@ -22,7 +22,7 @@ To use images for the gallery, we would be using `https://picsum.photos/id/` URL
 
 As you may have noticed in the demo, when you click on an image, it expands and takes up the entire width and height of the container. When you click on the expanded image, it animates back to its original position. This animation behaviour is similar to that of the iOS photo gallery.
 
-To implement this behaviour, we'll use a prop called, which is provided by the Framer `Motion` component. It is useful when a component is removed from a React tree and added back to the tree, as it animates from the previous component's bounding box and its latest animated values.
+To implement this behaviour, we'll use a prop `layoutId`, which is provided by the Framer `Motion` component. It is useful when a component is removed from a React tree and added back to the tree, as it animates from the previous component's bounding box and its latest animated values.
 
 If you didn't understand what that means, don't worry I'll explain in the later part of the blog.
 
